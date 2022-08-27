@@ -1,3 +1,3 @@
 # Edyoda-Food
 
-Live Demo => https://amazing-starlight-5968bd.netlify.app/
+Live Demo => https://thefoodbooth.netlify.app/
