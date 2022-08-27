@@ -1,19 +1,20 @@
-#heading{
+#heading {
     font-size: 2em;
     text-align: center;
 }
 
-header{
+header {
     background-color: #99ccff;
 
 }
 
-body{
+body {
     max-width: 100%;
     margin: 0;
     background-color: whitesmoke;
 }
-.main-menue{
+
+.main-menue {
     background-color: lightgrey;
     padding: 10px;
     border-radius: 5px;
@@ -21,70 +22,75 @@ body{
     margin-left: 10px;
     margin-right: 10px;
 }
-.main-menue > a {
-  
-   text-decoration: none;
-   color: #666666;
+
+.main-menue>a {
+
+    text-decoration: none;
+    color: #666666;
 }
-nav{
+
+nav {
     background-color: azure;
     padding: 20px;
     margin: 0%;
 }
-.men{
+
+.men {
     text-align: center;
 }
-.men a{
+
+.men a {
     text-decoration: none;
     color: black;
 }
-.poster{
-    
+
+.poster {
+
     border: 2px solid palegoldenrod;
     max-width: 500px;
     height: 300px;
     margin-left: 15px;
     margin-right: 15px;
     border-radius: 15px;
-    
+
 }
 
-.poster-wrap{
+.poster-wrap {
     background-color: bisque;
     margin: 0%;
     margin-left: auto;
     margin-right: auto;
-   text-align: center;
-   padding: 10px 50px;
+    text-align: center;
+    padding: 10px 50px;
     border-bottom: 10px solid black;
 }
 
-.copy{
+.copy {
     font-size: 16px;
     margin: 10px;
 }
 
-footer{
+footer {
     background-color: #666666;
     text-align: center;
     padding: 10px;
 }
 
-#main-head{
+#main-head {
     text-align: center;
     font-weight: 5px;
     font-size: 2em;
     margin: 0%;
     padding: 10px;
-  
+
 }
 
-#main-head > a{
+#main-head>a {
     text-decoration: none;
     color: black;
 }
 
-.h-info{
+.h-info {
 
     margin: 0%;
     padding: 10px;
@@ -92,29 +98,33 @@ footer{
     line-height: 1.2;
 }
 
-.i-food{
+.i-food {
     margin: 20px 50px;
     border: 3px black solid;
     border-radius: 10px;
 }
 
-.f-pic{
+.f-pic {
     width: 300px;
     height: 200px;
     margin: 0% 10px;
     padding: 10px;
-    
+
     border-radius: 50px;
 
 }
-.f-pic-wrap{
+
+.f-pic-wrap {
     text-align: center;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
-
-
-
-
-   
+.home {
+    text-align: right;
+    position: fixed;
+    bottom: 80px;
+    left: 50px;
+    /* border: 2px black solid; */
+    /* border-radius: 50%; */
+}
