@@ -122,10 +122,12 @@ footer {
 }
 
 .home {
-    text-align: right;
-    position: fixed;
+    /* text-align: right; */
+
+    position: sticky ; 
+    float: right;
     bottom: 80px;
-    left: 50px;
-    /* border: 2px black solid; */
-    /* border-radius: 50%; */
+    right: 35px;
+    border: 2px black solid; 
+    border-radius: 50%;
 }
